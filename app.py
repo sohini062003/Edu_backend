@@ -11,7 +11,10 @@ from tutorbot import tutor_chatbot
 qg = QuestionGenerator()
 app = Flask(__name__)
 CORS(app)  # Allow all origins (for dev only)
-print("abc")
+print("ABC")
+@app.route('/')
+def index():
+    return "Welcome to the Flask API!"
 @app.route('/summarizer', methods=['POST'])
 def summarizer():
     print("123")
