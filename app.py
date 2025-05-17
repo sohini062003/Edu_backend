@@ -1,6 +1,6 @@
 # backend/app.py
 print("✅ Flask app is starting...")
-
+import os
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from summarizer import preprocess_text, tfidf_summary, llm_summary
@@ -75,10 +75,6 @@ def chat():
     user_message = data.get("message", "")
     bot_response = tutor_chatbot(user_message)
     return jsonify({"response": bot_response})
-
-
-
-
 
 if __name__ == '__main__':
      port = int(os.environ.get("PORT", 5000))  # Use Render's PORT or default to 5000
