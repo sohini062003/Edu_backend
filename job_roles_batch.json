@@ -1,0 +1,277 @@
+[
+  {
+    "role": "Data Scientist",
+    "essential_skills": ["Python", "Pandas", "NumPy", "Machine Learning", "Data Visualization", "Statistics", "SQL"],
+    "learning_resources": {
+      "Python": "https://www.learnpython.org/",
+      "Pandas": "https://www.kaggle.com/learn/pandas",
+      "NumPy": "https://numpy.org/learn/",
+      "Machine Learning": "https://www.coursera.org/learn/machine-learning",
+      "Data Visualization": "https://www.datacamp.com/courses/introduction-to-data-visualization-with-python",
+      "Statistics": "https://www.khanacademy.org/math/statistics-probability",
+      "SQL": "https://www.w3schools.com/sql/"
+    }
+  },
+  {
+    "role": "Backend Developer",
+    "essential_skills": ["Python", "Django", "REST APIs", "SQL", "Git", "Docker", "Unit Testing"],
+    "learning_resources": {
+      "Django": "https://docs.djangoproject.com/en/4.2/",
+      "REST APIs": "https://restfulapi.net/",
+      "Git": "https://learngitbranching.js.org/",
+      "Docker": "https://docker-curriculum.com/",
+      "Unit Testing": "https://realpython.com/python-testing/"
+    }
+  },
+  {
+    "role": "Frontend Developer",
+    "essential_skills": ["HTML", "CSS", "JavaScript", "React", "Git", "Responsive Design", "Redux"],
+    "learning_resources": {
+      "HTML": "https://www.freecodecamp.org/learn/responsive-web-design/",
+      "CSS": "https://css-tricks.com/",
+      "JavaScript": "https://javascript.info/",
+      "React": "https://reactjs.org/docs/getting-started.html",
+      "Redux": "https://redux.js.org/",
+      "Responsive Design": "https://web.dev/responsive-web-design-basics/"
+    }
+  },
+  {
+    "role": "DevOps Engineer",
+    "essential_skills": ["Linux", "Docker", "Kubernetes", "CI/CD", "AWS", "Jenkins", "Shell Scripting"],
+    "learning_resources": {
+      "Linux": "https://linuxjourney.com/",
+      "Docker": "https://docker-curriculum.com/",
+      "Kubernetes": "https://kubernetes.io/docs/tutorials/",
+      "CI/CD": "https://roadmap.sh/devops",
+      "AWS": "https://aws.amazon.com/training/",
+      "Jenkins": "https://www.jenkins.io/doc/tutorials/"
+    }
+  },
+  {
+    "role": "Machine Learning Engineer",
+    "essential_skills": ["Python", "scikit-learn", "TensorFlow", "Deep Learning", "Data Preprocessing", "Pandas"],
+    "learning_resources": {
+      "scikit-learn": "https://scikit-learn.org/stable/tutorial/",
+      "TensorFlow": "https://www.tensorflow.org/learn",
+      "Deep Learning": "https://www.deeplearning.ai/",
+      "Data Preprocessing": "https://towardsdatascience.com/data-preprocessing-techniques-you-should-know-8954662716d6"
+    }
+  },
+  {
+    "role": "Mobile App Developer",
+    "essential_skills": ["Java", "Kotlin", "Flutter", "Dart", "Android Studio", "Firebase"],
+    "learning_resources": {
+      "Kotlin": "https://developer.android.com/kotlin",
+      "Flutter": "https://flutter.dev/learn",
+      "Dart": "https://dart.dev/guides",
+      "Firebase": "https://firebase.google.com/docs"
+    }
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "essential_skills": ["Network Security", "Linux", "Wireshark", "Penetration Testing", "Cryptography", "Python"],
+    "learning_resources": {
+      "Network Security": "https://www.cybrary.it/",
+      "Wireshark": "https://www.wireshark.org/docs/",
+      "Penetration Testing": "https://www.udemy.com/course/penetration-testing/",
+      "Cryptography": "https://www.khanacademy.org/computing/computer-science/cryptography"
+    }
+  },
+  {
+    "role": "Cloud Engineer",
+    "essential_skills": ["AWS", "Azure", "Linux", "Terraform", "CI/CD", "Docker", "Cloud Networking"],
+    "learning_resources": {
+      "AWS": "https://www.aws.training/",
+      "Azure": "https://learn.microsoft.com/en-us/training/",
+      "Terraform": "https://learn.hashicorp.com/terraform",
+      "Cloud Networking": "https://www.coursera.org/learn/gcp-networking"
+    }
+  },
+  {
+    "role": "AI Researcher",
+    "essential_skills": ["Deep Learning", "Python", "PyTorch", "TensorFlow", "Mathematics", "Research Paper Reading"],
+    "learning_resources": {
+      "PyTorch": "https://pytorch.org/tutorials/",
+      "Mathematics": "https://www.khanacademy.org/math",
+      "Research Paper Reading": "https://www.youtube.com/watch?v=6xI76FHVj-A"
+    }
+  },
+  {
+    "role": "Blockchain Developer",
+    "essential_skills": ["Solidity", "Ethereum", "Smart Contracts", "Web3.js", "JavaScript", "Cryptography"],
+    "learning_resources": {
+      "Solidity": "https://soliditylang.org/",
+      "Ethereum": "https://ethereum.org/en/developers/",
+      "Web3.js": "https://web3js.readthedocs.io/",
+      "Smart Contracts": "https://www.udemy.com/course/blockchain-and-deep-learning-using-tensorflow/"
+    }
+  },
+  {
+    "role": "Full Stack Developer",
+    "essential_skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB", "Git"],
+    "learning_resources": {
+      "Node.js": "https://nodejs.dev/learn",
+      "Express": "https://expressjs.com/en/starter/installing.html",
+      "MongoDB": "https://university.mongodb.com/"
+    }
+  },
+  {
+    "role": "Product Manager (Tech)",
+    "essential_skills": ["Agile Methodologies", "JIRA", "Product Roadmapping", "Market Research", "Communication", "Data Analysis"],
+    "learning_resources": {
+      "Agile": "https://www.scrumstudy.com/",
+      "JIRA": "https://www.atlassian.com/software/jira/guides",
+      "Product Roadmapping": "https://www.productplan.com/learn/"
+    }
+  },
+  {
+    "role": "Database Administrator",
+    "essential_skills": ["SQL", "MySQL", "PostgreSQL", "Database Design", "Performance Tuning", "Backup & Recovery"],
+    "learning_resources": {
+      "MySQL": "https://dev.mysql.com/doc/",
+      "PostgreSQL": "https://www.postgresql.org/docs/",
+      "Performance Tuning": "https://use-the-index-luke.com/"
+    }
+  },
+  {
+    "role": "Data Engineer",
+    "essential_skills": ["Python", "SQL", "ETL Pipelines", "Apache Spark", "Airflow", "Data Warehousing", "BigQuery"],
+    "learning_resources": {
+      "ETL": "https://www.datacamp.com/courses/etl-pipelines-with-python",
+      "Apache Spark": "https://spark.apache.org/docs/latest/",
+      "Airflow": "https://airflow.apache.org/docs/"
+    }
+  },
+  {
+    "role": "QA/Test Engineer",
+    "essential_skills": ["Manual Testing", "Automation Testing", "Selenium", "JUnit", "Bug Tracking", "Agile Testing"],
+    "learning_resources": {
+      "Selenium": "https://www.selenium.dev/documentation/",
+      "JUnit": "https://junit.org/junit5/",
+      "Bug Tracking": "https://www.javatpoint.com/software-testing-bug-life-cycle"
+    }
+  },
+  {
+    "role": "UI/UX Designer",
+    "essential_skills": ["Figma", "Wireframing", "User Research", "Adobe XD", "Design Thinking", "Prototyping"],
+    "learning_resources": {
+      "Figma": "https://www.figma.com/learn/",
+      "Design Thinking": "https://www.coursera.org/learn/uva-darden-design-thinking-innovation"
+    }
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "essential_skills": ["Python", "OpenCV", "Deep Learning", "CNN", "Image Processing", "TensorFlow"],
+    "learning_resources": {
+      "OpenCV": "https://opencv.org/courses/",
+      "CNN": "https://www.coursera.org/learn/convolutional-neural-networks"
+    }
+  },
+  {
+    "role": "Natural Language Processing Engineer",
+    "essential_skills": ["Python", "NLP", "SpaCy", "Transformers", "HuggingFace", "Text Preprocessing"],
+    "learning_resources": {
+      "SpaCy": "https://spacy.io/usage",
+      "HuggingFace": "https://huggingface.co/learn/nlp-course",
+      "Text Preprocessing": "https://www.analyticsvidhya.com/blog/2021/06/text-cleaning-and-preprocessing-tips/"
+    }
+  },
+  {
+    "role": "Site Reliability Engineer (SRE)",
+    "essential_skills": ["Monitoring", "Infrastructure as Code", "Kubernetes", "Python", "Incident Response", "CI/CD"],
+    "learning_resources": {
+      "Monitoring": "https://prometheus.io/docs/introduction/overview/",
+      "SRE": "https://sre.google/books/",
+      "IaC": "https://learn.hashicorp.com/terraform"
+    }
+  },
+  {
+    "role": "Game Developer",
+    "essential_skills": ["Unity", "C#", "3D Modeling", "Game Physics", "Animation", "Git"],
+    "learning_resources": {
+      "Unity": "https://learn.unity.com/",
+      "C#": "https://learn.microsoft.com/en-us/dotnet/csharp/",
+      "3D Modeling": "https://www.udemy.com/course/blender-3d-modeling/"
+    }
+  },
+    {
+        "role": "Network Engineer",
+        "essential_skills": ["TCP/IP", "Routing Protocols", "Network Security", "Firewalls", "Cisco", "Linux"],
+        "learning_resources": {
+        "TCP/IP": "https://www.coursera.org/learn/tcp-ip",
+        "Routing Protocols": "https://www.cisco.com/c/en/us/training-events/training-certifications/training-certifications-routing.html",
+        "Network Security": "https://www.cybrary.it/course/network-security-fundamentals/"
+        }
+    },
+    {
+        "role": "Technical Writer",
+        "essential_skills": ["Technical Writing", "Documentation", "Markdown", "API Documentation", "Content Management Systems"],
+        "learning_resources": {
+        "Technical Writing": "https://www.coursera.org/specializations/technical-writing",
+        "Markdown": "https://www.markdowntutorial.com/",
+        "API Documentation": "https://idratherbewriting.com/learnapidoc/"
+        }
+    },
+    {
+        "role": "SEO Specialist",
+        "essential_skills": ["Keyword Research", "On-page SEO", "Off-page SEO", "Google Analytics", "Content Marketing"],
+        "learning_resources": {
+        "Keyword Research": "https://moz.com/beginners-guide-to-seo/keyword-research",
+        "Google Analytics": "https://analytics.google.com/analytics/academy/",
+        "Content Marketing": "https://www.coursera.org/specializations/content-marketing"
+        }
+    },
+    {
+        "role": "Digital Marketing Specialist",
+        "essential_skills": ["Social Media Marketing", "Email Marketing", "Content Creation", "Google Ads", "SEO"],
+        "learning_resources": {
+        "Social Media Marketing": "https://www.coursera.org/specializations/social-media-marketing",
+        "Email Marketing": "https://mailchimp.com/resources/email-marketing-field-guide/",
+        "Google Ads": "https://skillshop.exceedlms.com/student/catalog/list?category_ids=google-ads"
+        }
+    },
+    {
+        "role": "Business Analyst",
+        "essential_skills": ["Data Analysis", "SQL", "Excel", "Business Intelligence", "Stakeholder Management"],
+        "learning_resources": {
+        "Data Analysis": "https://www.coursera.org/specializations/data-analysis",
+        "SQL": "https://www.codecademy.com/learn/learn-sql",
+        "Excel": "https://www.coursera.org/learn/excel-data-visualization",
+        "Business Intelligence": "https://www.udacity.com/course/business-analytics-nanodegree--nd098"
+        }
+    },
+    {
+        "role":"Software Engineer",
+        "essential_skills": ["Java", "C++", "Data Structures", "Algorithms", "System Design", "Git"],
+        "learning_resources": {
+            "Java": "https://www.learnjavaonline.org/",
+            "C++": "https://www.learncpp.com/",
+            "Data Structures": "https://www.geeksforgeeks.org/data-structures/",
+            "Algorithms": "https://www.coursera.org/learn/algorithms-part1",
+            "System Design": "https://www.educative.io/courses/grokking-the-system-design-interview"
+        }
+    },
+    {
+        "role": "Scrum Master",
+        "essential_skills": ["Agile", "Scrum", "Kanban", "JIRA", "Team Management"],
+        "learning_resources": {
+            "Agile": "https://www.scrum.org/resources/what-is-agile",
+            "Scrum": "https://www.scrum.org/resources/what-is-scrum",
+            "Kanban": "https://www.atlassian.com/agile/kanban"
+        }
+    },
+    {
+        "role": "Data Analyst",
+        "essential_skills": ["Excel", "SQL", "Data Visualization", "Python", "R", "Statistics"],
+        "learning_resources": {
+            "Excel": "https://www.coursera.org/learn/excel-data-visualization",
+            "SQL": "https://www.codecademy.com/learn/learn-sql",
+            "Data Visualization": "https://www.datacamp.com/courses/introduction-to-data-visualization-with-python"
+        }
+    }
+
+]
+
+
+
+
